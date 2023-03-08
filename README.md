@@ -25,4 +25,4 @@ Github: https://github.com/anthonynguyen-dev
 ## Project Links
 
 Github Link: https://github.com/anthonynguyen-dev/JATE-text-editor
-live link:
+live link: https://anthonynguyen-dev.github.io/JATE-text-editor/
